@@ -1,0 +1,13 @@
+{
+  "allData": [
+    {
+      "name": "abhi",
+      "gender": "male",
+      "department": "it",
+      "role": "model",
+      "salary": "121",
+      "status": false,
+      "id": 1
+    }
+  ]
+}
